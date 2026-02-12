@@ -1,16 +1,21 @@
-# tictactoe_game
+# 🐾 Purr-fect Tic-Tac-Toe
 
-A new Flutter project.
+Милое мобильное приложение "Крестики-нолики" с котиками и облачками, созданное на **Flutter**.
 
-## Getting Started
+## ✨ Особенности
+* **Милый дизайн**: Нежно-розовая тема и плавная анимация.
+* **Уникальные персонажи**: Вместо скучных X и O — котики 🐱 и облачка ☁️.
+* **Умная отрисовка**: Использование `CustomPaint` для динамического рисования линии победы.
+* **Адаптивность**: Игровое поле идеально центрировано и зафиксировано 3x3.
 
-This project is a starting point for a Flutter application.
+## 🛠 Технологии
+* **Dart** — основной язык программирования.
+* **Flutter** — фреймворк для кроссплатформенной разработки.
+* **CustomPainter** — для визуализации выигрышных комбинаций.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Как запустить
+1. Убедитесь, что у вас установлен Flutter.
+2. Склонируйте репозиторий:
+   ```bash
+   git clone [https://github.com/ixlnickie/cat_tictactoe.git](https://github.com/ixlnickie/cat_tictactoe.git)
+Создатель ixlnickie
